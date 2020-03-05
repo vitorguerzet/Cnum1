@@ -27,9 +27,9 @@ A saída do seu programa deve ser os valores V1, V2 e V3, representando as grama
 
 **Orientações**
 
-Faça os testes com o arquivo de programação “test.sce”.
+Faça os testes com o arquivo de programação “test.sci”.
 
-Edite o arquivo de programação “main.sce”.
+Edite o arquivo de programação “main.sci”.
 
 **Github**
 
