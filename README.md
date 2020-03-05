@@ -33,6 +33,8 @@ Edite o arquivo de programação “main.sce”.
 
 **Github**
 
+Faça o fork do projeto para sua conta.
+
 *git clone LINK.git*
 
 *git remote add upstream USERNAME/LINK.git*
