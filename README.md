@@ -28,7 +28,7 @@ Faça os testes com o arquivo de programação “test.sce”.
 Edite o arquivo de programação “main.sce”.
 
 **Github**
-*git clone LINK.git
-git remote add upstream USERNAME/LINK.git
-git commit -am “Comentário”
-git push upstream master*
+*git clone LINK.git*
+*git remote add upstream USERNAME/LINK.git*
+*git commit -am “Comentário”*
+*git push upstream master*
