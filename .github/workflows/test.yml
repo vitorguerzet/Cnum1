@@ -1,9 +1,6 @@
 name: Scilab CI
 
-on:
-  push:
-    branches:
-    - master
+on: push
 
 jobs:
   build:
@@ -11,8 +8,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+
     - name: Install dependencies
       run: sudo apt-get install scilab
     
     - name: Run tests
-      run: scilab -nwni -f ./test.sce
+      run: scilab -nwni -f test.sce
