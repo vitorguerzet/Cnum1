@@ -1,5 +1,5 @@
 # Cnum1
-1.1 - Exemplos sobre comandos de entrada e saída
+1.1 - Comandos de entrada e saída
 
 Uma equipe de treze mergulhadores resolveu fundar uma empresa para procurar tesouros de navios naufragados. Antes mesmo da primeira expedição, ficou decidido como seria a divisão dos tesouros encontrados:
 
