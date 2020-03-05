@@ -9,4 +9,4 @@ jobs:
     - name: Install scilab
       run: sudo apt-get install scilab
     - name: Run tests
-      run: sudo scilab -nwni -f test.sce
+      run: scilab -nwni -e 'result = exec("test.sce", "errcatch"); exit(result)'
