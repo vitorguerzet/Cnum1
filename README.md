@@ -9,9 +9,11 @@ Uma equipe de treze mergulhadores resolveu fundar uma empresa para procurar teso
 A primeira expedição foi um sucesso: recuperaram N gramas de ouro de um navio inglês que naufragou. Escreva um programa que escreva três linhas na saída, contendo valor real, com duas, três e quatro casas decimais de precisão, respectivamente, representando quantas gramas de ouro cada membro da equipe vai receber.
 
 **Entrada**
+
 A entrada consiste de um número inteiro N, representando as gramas de ouro de um navio inglês. Use arquivo de entrada “input.dat”.
 
 **Saída**
+
 A saída do seu programa deve ser os valores V1, V2 e V3, representando as gramas de ouro.
 
 | Entrada | Saída |
@@ -24,11 +26,17 @@ A saída do seu programa deve ser os valores V1, V2 e V3, representando as grama
 | | 6331.0256 |
 
 **Orientações**
+
 Faça os testes com o arquivo de programação “test.sce”.
+
 Edite o arquivo de programação “main.sce”.
 
 **Github**
+
 *git clone LINK.git*
+
 *git remote add upstream USERNAME/LINK.git*
+
 *git commit -am “Comentário”*
+
 *git push upstream master*
