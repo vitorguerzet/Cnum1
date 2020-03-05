@@ -14,7 +14,8 @@ A entrada consiste de um número inteiro N, representando as gramas de ouro de u
 
 **Saída**
 
-A saída do seu programa deve ser os valores V1, V2 e V3, representando as gramas de ouro.
+A saída do seu programa deve ser os valores V1, V2 e V3, representando as gramas de ouro. Use arquivo de entrada “output.dat”.
+
 
 | Entrada | Saída |
 | --- | --- |
