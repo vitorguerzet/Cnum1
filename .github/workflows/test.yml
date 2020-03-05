@@ -15,4 +15,4 @@ jobs:
       run: sudo apt-get install scilab
     
     - name: Run tests
-      run: scilab -nwni -e 'result = exec("test.sce", "errcatch"); exit(result)'
+      run: scilab -nwni -f ./test.sce
