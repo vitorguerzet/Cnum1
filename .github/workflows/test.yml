@@ -4,3 +4,15 @@ on:
   push:
     branches:
     - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Install dependencies
+      run: sudo apt-get install scilab
+    
+    - name: Run tests
+      run: scilab -nwni -f test.sce
