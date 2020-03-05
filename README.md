@@ -6,7 +6,7 @@ Uma equipe de treze mergulhadores resolveu fundar uma empresa para procurar teso
 - um terço deveria ser guardado para ser investido em novas expedições;
 - o restante seria dividido igualmente entre os membros da equipe.
 
-A primeira expedição foi um sucesso: recuperaram N gramas de ouro de um navio inglês que naufragou. Escreva um programa que escreva três linhas na saída, contendo valor real, com duas, três e quatro casas decimais de precisão, respectivamente, representando quantas gramas de ouro cada membro da equipe vai receber.
+A primeira expedição foi um sucesso: recuperaram N gramas de ouro de um navio inglês que naufragou. Faça um programa que escreva três linhas na saída, contendo valor real, com duas, três e quatro casas decimais de precisão, respectivamente, representando quantas gramas de ouro cada membro da equipe vai receber.
 
 **Entrada**
 
