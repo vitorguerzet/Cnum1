@@ -1,18 +1,12 @@
 name: Scilab CI
-
 on: push
-
 jobs:
-  build:
-
+  test:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout
-      uses: actions/checkout@v1
-
+      uses: actions/checkout@master
     - name: Install scilab
       run: sudo apt-get install scilab
-    
     - name: Run tests
-      run: scilab -nwni -f test.sce
+      run: sudo scilab -nwni -f test.sce
