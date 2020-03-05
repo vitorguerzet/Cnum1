@@ -3,7 +3,7 @@ load("input.dat", "N");
 // cálculo das gramas em ouro
 O=(2*N/3)/13;
 // cálculo de V1
-V1=round(100*O)/100;
+V1=round(10*O)/10;
 // cálculo de V2
 V2=round(1000*O)/1000;
 // cálculo de V3
