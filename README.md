@@ -1,12 +1,12 @@
 # Cnum1
-1.1 - Exemplos sobre comandos de entrada e saída
+1.1 - Comandos de entrada e saída
 
 Uma equipe de treze mergulhadores resolveu fundar uma empresa para procurar tesouros de navios naufragados. Antes mesmo da primeira expedição, ficou decidido como seria a divisão dos tesouros encontrados:
 
 - um terço deveria ser guardado para ser investido em novas expedições;
 - o restante seria dividido igualmente entre os membros da equipe.
 
-A primeira expedição foi um sucesso: recuperaram N gramas de ouro de um navio inglês que naufragou. Escreva um programa que escreva três linhas na saída, contendo valor real, com duas, três e quatro casas decimais de precisão, respectivamente, representando quantas gramas de ouro cada membro da equipe vai receber.
+A primeira expedição foi um sucesso: recuperaram N gramas de ouro de um navio inglês que naufragou. Faça um programa que escreva três linhas na saída, contendo valor real, com duas, três e quatro casas decimais de precisão, respectivamente, representando quantas gramas de ouro cada membro da equipe vai receber.
 
 **Entrada**
 
@@ -14,7 +14,7 @@ A entrada consiste de um número inteiro N, representando as gramas de ouro de u
 
 **Saída**
 
-A saída do seu programa deve ser os valores V1, V2 e V3, representando as gramas de ouro. Use arquivo de entrada “output.dat”.
+A saída do seu programa deve ser os valores V1, V2 e V3, representando as gramas de ouro. Use arquivo de saída “output.dat”.
 
 
 | Entrada | Saída |
