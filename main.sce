@@ -17,6 +17,6 @@ V2=V2/1000;
 V3=V3*10000;
 V3=round(V3);
 V3=V3/10000;
-mprintf("%f;%f;%f",V1,V2,V3)
+//mprintf("%f;%f;%f",V1,V2,V3)
 // salvar o valor das variáveis em arquivo
 save("output.dat", "V1", "V2", "V3");
